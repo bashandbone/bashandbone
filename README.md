@@ -1,6 +1,6 @@
 # Welcome to my infinite loop...
 
-## Current Focus: knit.li
+## Current Focus: **[knitli](https://knit.li)**
 
 A startup focused on making AI more user friendly.
 
