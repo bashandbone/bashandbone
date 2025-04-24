@@ -39,4 +39,4 @@ Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
 - 📫 [Email](mailto:adam@knit.li)
 
 
-📓 Docs like spells. Code like tools. UX like rebellion.
+### 📓 Docs like spells. Code like tools. UX like rebellion.
