@@ -1,6 +1,6 @@
-# 🏴‍☠️ Welcome
+# 🏴‍☠️ Welcome to @bashandbone ☠️
 
-Hey, I’m Adam aka @bashandbone ☠️ — self-taught engineer ⌨️, recovering spymaster 🕵️, expert risk-enabler 🧨, and founder 🧱 building sharp tools 🧰 for complex systems.
+Hey, I’m Adam — self-taught engineer ⌨️, recovering spymaster 🕵️, expert risk-enabler 🧨, and founder 🧱 building sharp tools 🧰 for complex systems.
 
 I believe great UX starts with understanding, and I write code that makes the hard parts plain.
 
