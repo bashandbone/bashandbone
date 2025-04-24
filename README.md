@@ -1,20 +1,38 @@
-# Welcome to my infinite loop...
+# 🏴‍☠️ Welcome
 
-## Current Focus: **[knitli](https://knit.li)**
+Hey, I’m Adam aka @bashandbone — a self-taught engineer, longtime Linux user, and founder building sharp tools for complex systems.  
+I believe great UX starts with understanding, and I write code that makes the hard parts plain.
 
-A startup focused on making AI more user friendly.
+---
 
-## Current Focus When I'm Not Focused on That: Putting the polishing touches on **[Plain License](https://github.com/seekinginfiniteloop/PlainLicense)** and publishing it.
+## 🔥 What I'm Working On
 
-An initiative to rewrite popular licenses in plain language. Because innovation should be easy to understand. [Visit the site at https://plainlicense.org](https://plainlicense.org)
+- 🧵 [`knitli`](https://knit.li) — edge-native AI meets radically human UX  
+- 📜 [`plain license`](https://plainlicense.org) — creative licenses, reimagined for real people  
+- 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
+- 🧠 Rethinking documentation, onboarding, and the meaning of useful
+- 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
+- ✍️ Spending too much time on [small diversions](https://github.com/knitli/mad-icons).
 
-## 🦸 My Superpowers 🦸
+---
 
-- **Blitzkrieg Learning**: Understanding what I don't know and need to know at super speed.
-- **Zero fear**: No hesistation...ever.
-- **Asking questions no one else imagines**: I just think differently. 
-- **Seeking nuance**: I'm suspicious of problems that look simple, because usually an important detail or consequence wasn't considered. Sometimes I'm pleasantly surprised when a solution easily falls into place.
-- **Breathing life into ideas**: I'm crazy good at navigating ambiguous problems and chipping away at abstract ideas.
-- **Writing for humans**: I'm obsessed with plain, approachable writing.
+## 💻 Tech I Reach For
 
-... all superpowers have a cost. You can imagine for yourself how each of those can backfire sometimes.
+```bash
+Python  ·  TypeScript  ·  Rust  ·  Bash  
+Cloudflare Edge Stack  ·  Astro  ·  SolidJS  ·  Vite  
+Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
+```
+
+## 🧭 My Philosophy
+
+- Clear beats clever.
+- Docs are infrastructure.
+- UX is dev experience too.
+- Plain language is a superpower, not a compromise.
+- Build like you’re leaving a trail for someone else. (Spoiler: you are.)
+
+## 🧑‍🚀 Connect
+
+- 💬 DM me or open an issue — I welcome feedback, forks, and principled shitposting
+- 📫 [Email](mailto:adam@knit.li)
