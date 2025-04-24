@@ -1,6 +1,7 @@
 # 🏴‍☠️ Welcome
 
-Hey, I’m Adam aka @bashandbone — a self-taught engineer, longtime Linux user, and founder building sharp tools for complex systems.  
+Hey, I’m Adam aka @bashandbone ☠️ — self-taught engineer ⌨️, recovering spymaster 🕵️, expert risk-enabler 🧨, and founder 🧱 building sharp tools 🧰 for complex systems.
+
 I believe great UX starts with understanding, and I write code that makes the hard parts plain.
 
 ---
@@ -8,7 +9,7 @@ I believe great UX starts with understanding, and I write code that makes the ha
 ## 🔥 What I'm Working On
 
 - 🧵 [`knitli`](https://knit.li) — edge-native AI meets radically human UX  
-- 📜 [`plain license`](https://plainlicense.org) — creative licenses, reimagined for real people  
+- 📜 [`Plain License`](https://plainlicense.org) — creative licenses, reimagined for real people  
 - 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
 - 🧠 Rethinking documentation, onboarding, and the meaning of useful
 - 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
@@ -28,7 +29,7 @@ Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
 
 - Clear beats clever.
 - Docs are infrastructure.
-- UX is dev experience too.
+- UX is the only X.
 - Plain language is a superpower, not a compromise.
 - Build like you’re leaving a trail for someone else. (Spoiler: you are.)
 
@@ -36,3 +37,6 @@ Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
 
 - 💬 DM me or open an issue — I welcome feedback, forks, and principled shitposting
 - 📫 [Email](mailto:adam@knit.li)
+
+
+📓 Docs like spells. Code like tools. UX like rebellion.
