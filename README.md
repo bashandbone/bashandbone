@@ -21,7 +21,7 @@ I believe great UX starts with understanding, and I write code that makes the ha
 
 ```bash
 Python  ·  TypeScript  ·  Rust  ·  Bash  
-Cloudflare Edge Stack  ·  Astro  ·  SolidJS  ·  Vite  
+Cloudflare Edge Stack  ·  Qwik  ·  Astro  ·  Vite  
 Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
 ```
 
