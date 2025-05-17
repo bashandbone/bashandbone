@@ -22,7 +22,7 @@ I believe great UX starts with understanding, and I write code that makes the ha
 ```bash
 Python  ·  TypeScript  ·  Rust  ·  Bash  
 Cloudflare Edge Stack  ·  Qwik  ·  Astro  ·  Tailwind  ·  Vite  
-Terminal interfaces  ·  Functional patterns  ·  Zero-trust everything
+terminal interfaces  ·  functional patterns  ·  zero-trust everything
 ```
 
 ## 🧭 My Philosophy
