@@ -13,7 +13,7 @@ I believe great UX starts with understanding, and I write code that makes the ha
 - 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
 - 🧠 Rethinking documentation, onboarding, and the meaning of useful
 - 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
-- ✍️ Spending too much time on [small diversions](https://github.com/knitli/mad-icons).
+- ✍️ Spending too much time on [small](https://github.com/knitli/mad-icons) [diversions](https://github.com/knitli/space-pklr).
 
 ---
 
