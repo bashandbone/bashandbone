@@ -20,7 +20,7 @@ I believe great UX starts with understanding, and I write code that makes the ha
 ## 💻 Tech I Reach For
 
 ```bash
-Python  ·  TypeScript  ·  Rust  ·  Bash  
+Python  ·  TypeScript  ·  Rust  ·  Bash  ·  Pkl
 Cloudflare Edge Stack  ·  Qwik  ·  Astro  ·  Tailwind  ·  Vite  
 terminal interfaces  ·  functional patterns  ·  zero-trust everything
 ```
