@@ -10,8 +10,8 @@ I believe great UX starts with understanding, and I write code that makes the ha
 
 ## 🔥 What I'm Working On
 
-- 🧵 [`knitli`](https://knitli.com) — giving AI agents and developers the tools they deserve. 
-- 📜 [`Plain License`](https://plainlicense.org) — creative licenses, reimagined for real people  
+- 🧵 [`knitli`](https://knitli.com) — giving AI agents and developers the tools they deserve to empower both. 
+- 📜 [`Plain License`](https://plainlicense.org) — creative licenses, reimagined for real people (temporarily on hold while I launch knitli) 
 - 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
 - 🧠 Rethinking documentation, onboarding, and the meaning of useful
 - 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
