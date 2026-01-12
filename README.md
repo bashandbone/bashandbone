@@ -1,6 +1,8 @@
 # 🏴‍☠️ Welcome to @bashandbone ☠️
 
-Hey, I’m Adam — self-taught engineer ⌨️, recovering spymaster 🕵️, expert risk-enabler 🧨, and founder 🧱 building sharp tools 🧰 for complex systems.
+Hey, I’m Adam — self-taught engineer ⌨️, recovering spymaster 🕵️[^1], expert risk-enabler 🧨, and founder 🧱 [@knitli](https://github.com/knitli) building sharp tools 🧰 for complex systems.
+
+[^1]: [Really!](https://blog.knitli.com/from-intelligence-expert-to-ai-business-leader-a-surprising-path/)
 
 I believe great UX starts with understanding, and I write code that makes the hard parts plain.[^1]
 
@@ -10,20 +12,24 @@ I believe great UX starts with understanding, and I write code that makes the ha
 
 ## 🔥 What I'm Working On
 
-- 🧵 [`knitli`](https://knitli.com) — giving AI agents and developers the tools they deserve to empower both. 
-- 📜 [`Plain License`](https://plainlicense.org) — creative licenses, reimagined for real people (temporarily on hold while I launch knitli) 
+- 🧵 [`knitli`](https://knitli.com) — giving AI agents and developers the tools they deserve to empower both: [CodeWeaver](https://github.com/knitli/codeweaver) and [Thread](https://github.com/knitli/thread)
 - 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
 - 🧠 Rethinking documentation, onboarding, and the meaning of useful
 - 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
 - ✍️ Reinventing old tools to solve new problems. 
 
+
+### What I Want to Finish
+
+- [PlainLicense](https://github.com/plainlicense/plainlicense) - Creative licenses reimagined for real people
+  - Taking a back seat while I build Knitli, but I'm obsessed with accessible language.
 ---
 
 ## 💻 Tech I Reach For
 
 ```bash
 Python  ·  TypeScript  ·  Rust  ·  Bash  ·  Pkl
-Cloudflare Edge Stack  ·  Qwik  ·  Astro  ·  Tailwind  ·  Vite  
+Cloudflare Edge Stack  ·  Astro   ·  Vite  ·  Tree Sitter
 terminal interfaces  ·  functional patterns  ·  zero-trust everything
 ```
 
