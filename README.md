@@ -1,51 +1,29 @@
-# 🏴‍☠️ Welcome to @bashandbone ☠️
+# Hey, I'm Adam.
 
-Hey, I’m Adam — self-taught engineer ⌨️, recovering spymaster 🕵️[^1], expert risk-enabler 🧨, and founder 🧱 [@knitli](https://github.com/knitli) building sharp tools 🧰 for complex systems.
+I spent 18 years in intelligence — the last stretch overseeing global operations and managing very large risks. Toward the end, I taught myself to code when I couldn't get good data any other way. [And I didn't stop](https://blog.knitli.com/from-intelligence-expert-to-ai-business-leader-a-surprising-path/).
 
-[^1]: [Really!](https://blog.knitli.com/from-intelligence-expert-to-ai-business-leader-a-surprising-path/)
+Now I'm the solo founder of [Knitli](https://knitli.com), where I make developer tools that help people and AI agents actually understand codebases.
 
-I believe great UX starts with understanding, and I write code that makes the hard parts plain.[^1]
+## What I Build
 
-[^1]: I try to, at least. 
+**[CodeWeaver](https://github.com/knitli/codeweaver)** — An open-source MCP server for semantic code search. Hybrid dense/sparse retrieval, tree-sitter parsing across 170+ languages, support for 20+ embedding providers. It's the core of what Knitli does.
 
----
+**[Thread](https://github.com/knitli/thread)** — Codebase intelligence, built in Rust. Designed to make sense of the context files, docs, and scattered knowledge that accumulate in real projects.
 
-## 🔥 What I'm Working On
+**[PlainLicense](https://plainlicense.org)** — Plain-language rewrites of open-source licenses. Because legal text shouldn't require a law degree to understand.
 
-- 🧵 [`knitli`](https://knitli.com) — giving AI agents and developers the tools they deserve to empower both: [CodeWeaver](https://github.com/knitli/codeweaver) and [Thread](https://github.com/knitli/thread)
-- 🛠️ Building serverless SaaS from scratch (Cloudflare Workers, D1, KV, Vectorize, Workers AI)  
-- 🧠 Rethinking documentation, onboarding, and the meaning of useful
-- 🏴‍☠️ Occasionally yelling "RTFM" (lovingly) while writing it
-- ✍️ Reinventing old tools to solve new problems. 
+I also maintain a handful of smaller tools: [submod](https://github.com/knitli/submod), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport).
 
+## What I Work With
 
-### What I Want to Finish
+Python, TypeScript, Rust, and enough Bash to justify the username.
 
-- [PlainLicense](https://github.com/plainlicense/plainlicense) - Creative licenses reimagined for real people
-  - Taking a back seat while I build Knitli, but I'm obsessed with accessible language.
----
+## What I Care About
 
-## 💻 Tech I Reach For
+Plain language is a design choice, not a dumbing down. I spent a career watching important information get buried under jargon, classification markings, and institutional habit — sometimes with real consequences. That stuck with me.
 
-```bash
-Python  ·  TypeScript  ·  Rust  ·  Bash  ·  Pkl
-Cloudflare Edge Stack  ·  Astro   ·  Vite  ·  Tree Sitter
-terminal interfaces  ·  functional patterns  ·  zero-trust everything
-```
+I think docs are infrastructure. I think UX applies to AI agents, not just people — they experience information differently, and almost nobody is designing for that yet. I'm trying to. I haven't built everything I see in my head, but I'm getting closer.
 
-## 🧭 My Philosophy
+## Get in Touch
 
-- Clear beats clever.
-- Docs are infrastructure.
-- UX is the only X, and it's not just for people.
-- Types are functions. 
-- Plain language is a superpower, not a compromise.
-- Measure twice, then embrace risk. 
-
-## 🧑‍🚀 Connect
-
-- 💬 DM me or open an issue — I welcome feedback, forks, and principled shitposting
-- 📫 [Email](mailto:adam@knit.li)
-
-
-### 📓 Docs like spells. Code like tools. UX like rebellion.
+Open an issue, start a discussion, or email me at [adam@knit.li](mailto:adam@knit.li). I like honest feedback and I don't bite.
