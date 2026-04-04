@@ -12,11 +12,13 @@ Now I'm the solo founder of [Knitli](https://knitli.com), where I make developer
 
 **[PlainLicense](https://plainlicense.org)** — Plain-language rewrites of open-source licenses. Because legal text shouldn't require a law degree to understand.
 
+**[Recoco](https://github.com/knitli/recoco)** - A pure rust fork of the popular [CocoIndex](https://github.com/cocoindex-io/cocoindex) python ETL library. Recoco is fast and lean, and I try to keep feature parity with upstream. Forked and maintained as a foundation for Thread.
+
 I also maintain a handful of smaller tools: [submod](https://github.com/knitli/submod), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport).
 
 ## What I Work With
 
-Python, TypeScript, Rust, and enough Bash to justify the username.
+Python, Rust, TypeScript, and enough Bash to justify the username (I prefer zsh, but *zshandbone* didn't quite have the same ring to it).
 
 ## What I Care About
 
