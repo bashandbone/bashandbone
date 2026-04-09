@@ -10,6 +10,8 @@ Now I'm the solo founder of [Knitli](https://knitli.com), where I make developer
 
 **[Thread](https://github.com/knitli/thread)** — Codebase intelligence, built in Rust. Designed to make sense of the context files, docs, and scattered knowledge that accumulate in real projects.
 
+**[Agent Toolshed](https://github.com/knitli/toolshed)** - Claude Code (and other) agent plugins, including: codeweaver (guided/quick install), ctx (polices stale repo context in memory and output files across vendors), strip-ansi (cleans ANSI escape characters from agent output; no more polluted commits/prs/issues).
+
 **[PlainLicense](https://plainlicense.org)** — Plain-language rewrites of open-source licenses. Because legal text shouldn't require a law degree to understand.
 
 **[Recoco](https://github.com/knitli/recoco)** - A pure rust fork of the popular [CocoIndex](https://github.com/cocoindex-io/cocoindex) python ETL library. Recoco is fast and lean, and I try to keep feature parity with upstream. Forked and maintained as a foundation for Thread.
