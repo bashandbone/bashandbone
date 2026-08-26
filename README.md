@@ -10,7 +10,7 @@ Now I'm the founder of [Knitli](https://knitli.com) and creator of its principal
 
 **[PlainLicense](https://plainlicense.org)** — Plain-language rewrites of open-source licenses. Because legal text shouldn't require a law degree to understand.
 
-### Earlier tools I still maintain
+### Other Things I Build on the Way to Product-Market Fit
 Before Marque, Knitli built developer tooling for AI agent context. Still up to fork and make your own:
 - **[CodeWeaver](https://github.com/knitli/codeweaver)** — open-source MCP server for semantic code search (hybrid dense/sparse retrieval, tree-sitter parsing across 170+ languages)
 - **[Thread](https://github.com/knitli/thread)** — Rust-based codebase intelligence
