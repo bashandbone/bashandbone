@@ -2,7 +2,7 @@
 
 I spent 18 years in intelligence — the last stretch overseeing global operations and managing very large risks. Toward the end, I taught myself to code when I couldn't get good data any other way. And I didn't stop.
 
-Now I'm the founder of [Knitli](https://knitli.com) — a deterministic compiler that computes and corrects classification markings (CAPCO/ISM) instead of just flagging them wrong.
+Now I'm the founder of [Knitli](https://knitli.com) and creator of its principal product--Marque, a deterministic compiler that computes and corrects classification markings (CAPCO/ISM) instead of just flagging them wrong.
 
 ## What I Build
 
