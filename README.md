@@ -1,22 +1,20 @@
 # Hey, I'm Adam.
 
-I spent 18 years in intelligence — the last stretch overseeing global operations and managing very large risks. Toward the end, I taught myself to code when I couldn't get good data any other way. [And I didn't stop](https://blog.knitli.com/from-intelligence-expert-to-ai-business-leader-a-surprising-path/).
+I spent 18 years in intelligence — the last stretch overseeing global operations and managing very large risks. Toward the end, I taught myself to code when I couldn't get good data any other way. And I didn't stop.
 
-Now I'm the solo founder of [Knitli](https://knitli.com), where I make developer tools that help people and AI agents actually understand codebases.
+Now I'm the founder of [Knitli](https://knitli.com) — a deterministic compiler that computes and corrects classification markings (CAPCO/ISM) instead of just flagging them wrong.
 
 ## What I Build
 
-**[CodeWeaver](https://github.com/knitli/codeweaver)** — An open-source MCP server for semantic code search. Hybrid dense/sparse retrieval, tree-sitter parsing across 170+ languages, support for 20+ embedding providers. It's the core of what Knitli does.
-
-**[Thread](https://github.com/knitli/thread)** — Codebase intelligence, built in Rust. Designed to make sense of the context files, docs, and scattered knowledge that accumulate in real projects.
-
-**[Agent Toolshed](https://github.com/knitli/toolshed)** - Claude Code (and other) agent plugins, including: codeweaver (guided/quick install), ctx (polices stale repo context in memory and output files across vendors), strip-ansi (cleans ANSI escape characters from agent output; no more polluted commits/prs/issues).
+**[Marque](https://knitli.com/marque)** — the core of what Knitli does now. A deterministic, corrective marking compiler in Rust: it resolves classification markings using lattice algebra, cites the governing rule for every correction, and never reads the content it's marking. Not open source — the spec and API are the public surface.
 
 **[PlainLicense](https://plainlicense.org)** — Plain-language rewrites of open-source licenses. Because legal text shouldn't require a law degree to understand.
 
-**[Recoco](https://github.com/knitli/recoco)** - A pure rust fork of the popular [CocoIndex](https://github.com/cocoindex-io/cocoindex) python ETL library. Recoco is fast and lean, and I try to keep feature parity with upstream. Forked and maintained as a foundation for Thread.
-
-I also maintain a handful of smaller tools: [submod](https://github.com/knitli/submod), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport).
+### Earlier tools I still maintain
+Before Marque, Knitli built developer tooling for AI agent context. Still up to fork and make your own:
+- **[CodeWeaver](https://github.com/knitli/codeweaver)** — open-source MCP server for semantic code search (hybrid dense/sparse retrieval, tree-sitter parsing across 170+ languages)
+- **[Thread](https://github.com/knitli/thread)** — Rust-based codebase intelligence
+- Smaller tools: [submod](https://github.com/bashandbone/submod), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport)
 
 ## What I Work With
 
@@ -24,10 +22,10 @@ Python, Rust, TypeScript, and enough Bash to justify the username (I prefer zsh,
 
 ## What I Care About
 
-Plain language is a design choice, not a dumbing down. I spent a career watching important information get buried under jargon, classification markings, and institutional habit — sometimes with real consequences. That stuck with me.
+Plain language is a design choice, not a dumbing down. I spent a career watching important information get buried under jargon, classification markings, and institutional habit — sometimes with real consequences. That's not a metaphor anymore; it's the actual system I'm building Marque to fix.
 
-I think docs are infrastructure. I think UX applies to AI agents, not just people — they experience information differently, and almost nobody is designing for that yet. I'm trying to. I haven't built everything I see in my head, but I'm getting closer.
+I think docs are infrastructure. I think UX applies past human readers — Marque's audit trail gets consumed by people and by upstream systems alike, and almost nobody designs for that second audience. I'm trying to.
 
 ## Get in Touch
 
-Open an issue, start a discussion, or email me at [adam@knit.li](mailto:adam@knit.li). I like honest feedback and I don't bite.
+Open an issue, start a discussion, or email me at [adam@knitli.com](mailto:adam@knitli.com). I like honest feedback and I don't bite.
