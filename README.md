@@ -14,7 +14,7 @@ Now I'm the founder of [Knitli](https://knitli.com) and creator of its principal
 Before Marque, Knitli built developer tooling for AI agent context. Still up to fork and make your own:
 - **[CodeWeaver](https://github.com/knitli/codeweaver)** — open-source MCP server for semantic code search (hybrid dense/sparse retrieval, tree-sitter parsing across 170+ languages)
 - **[Thread](https://github.com/knitli/thread)** — Rust-based codebase intelligence
-- Smaller tools: [submod](https://github.com/bashandbone/submod), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport)
+- Smaller tools: [submod](https://github.com/bashandbone/submod) (I still maintain this one), [exportify](https://github.com/knitli/exportify), [lateimport](https://github.com/knitli/lateimport)
 
 ## What I Work With
 
